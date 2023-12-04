@@ -1,8 +1,8 @@
 local loopTime = 2500 -- ms
 
-local discordAppId = 1131433151990878208
-local discordRichPresenceNameB = "assets_hybe"
-local discordRichPresenceNameS = "assets_hybe2"
+local discordAppId = 0000
+local discordRichPresenceNameB = "name"
+local discordRichPresenceNameS = "name2"
 
 Citizen.CreateThread(function()
     while true do
